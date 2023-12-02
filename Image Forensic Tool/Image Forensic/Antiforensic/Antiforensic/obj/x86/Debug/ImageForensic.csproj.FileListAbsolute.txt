@@ -1,0 +1,585 @@
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2013\PROJECT STUDY\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\AForge.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\AForge.Imaging.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\AForge.Math.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\DockingToolbar.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\SourceGrid2.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\SourceLibrary.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\bin\Debug\WeifenLuo.WinFormsUI.dll
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LIVE\COMPRESSION ANTI-FORENSICS\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\yuvatech 2014\Projects\final\Image Processing\Revealing Traces of JPEG Compression\ProjectAntiForensic\enhancement\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Anoop\PROJECTS\mount\Antiforensic\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Imaging.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Math.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\DockingToolbar.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceGrid2.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceLibrary.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\WeifenLuo.WinFormsUI.dll
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Imaging.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Math.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\DockingToolbar.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceGrid2.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceLibrary.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\WeifenLuo.WinFormsUI.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Imaging.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Math.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\DockingToolbar.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceGrid2.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceLibrary.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\WeifenLuo.WinFormsUI.dll
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2016\PROJECT\ANOOP\DOTNET PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Imaging.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\AForge.Math.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\DockingToolbar.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceGrid2.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\SourceLibrary.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\WeifenLuo.WinFormsUI.dll
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Anoop\2017\Marthoma\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2017\PROJECT\MARTHOMA\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2018\PROJECT\IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH 2018\PROJECT\CHMM FINAL\PROJECT\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH 2019\PROJECT\UIT\Final\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH 2021\PROJECT STUDY\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH 2021\PROJECT\CET\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH2022\PROJECT\BTechKarivattom\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FormEmbed.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FormEmbed.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH2022\PROJECT\MSC_DIstanceKarivatom\24.ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FormEmbed.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH2023\PROJECT\MCA_IGNOU\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csprojResolveAssemblyReference.cache
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FormEmbed.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.Cache
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MinerHome.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form11.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final1.resources
+E:\YUVATECH2023\PROJECT\MCA_Mohandas_Mini\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe.config
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.exe
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\bin\Debug\ImageForensic.pdb
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.AssemblyReference.cache
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Baseform.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.ColorSlider.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FilterPreview.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.GridArray.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\IPLab.GridArrayInt.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Histogram.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HuePicker.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCT1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.DCTform.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Embedd1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Final1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form11.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Form2.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.FormEmbed.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.HistogramaDesenat.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.LoadImage.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Login.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MDIParent1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.MinerHome.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Noise1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Properties.Resources.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.Quantization1.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.QuantizationMatrix.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.TEmbed.resources
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.GenerateResource.cache
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.CoreCompileInputs.cache
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.csproj.CopyComplete
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.exe
+F:\S3\ANTIFORENSIC\Antiforensic(base)\Antiforensic final\ImageForensic\ImageForensic\obj\x86\Debug\ImageForensic.pdb
